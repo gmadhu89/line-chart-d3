@@ -8,5 +8,6 @@ Execution steps (to run in local):
 2) Setup a local [http.server](https://ryanblunden.com/create-a-http-server-with-one-command-thanks-to-python-29fcfdcd240e)  
 3) Open linecharts.html after initiating http server to view the visualization.  
 
+Click here to view the [Line Charts](https://gmadhu89.github.io/line-chart-d3/)
 
 ![Snapshot of Line chart](https://github.com/gmadhu89/academic-projects/edit/main/line-chart-d3/line-charts.JPG?raw=true "Snapshot Line chart")  
