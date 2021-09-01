@@ -208,7 +208,7 @@ var svg2 = d3.select("body").append("svg")
 
 var parseTime = d3.timeParse("%m/%d/%Y");
 var formatTime = d3.timeFormat("%b %y");
-var dataset = d3.csv("boardgame_ratings.csv");
+var dataset = d3.csv("input.csv");
 
 dataset.then(function(data) {
     var slices = data.columns.slice(1).map(function(id) {
@@ -519,7 +519,7 @@ var svg3 = d3.select("body").append("svg")
 
 var parseTime = d3.timeParse("%m/%d/%Y");
 var formatTime = d3.timeFormat("%b %y");
-var dataset = d3.csv("boardgame_ratings.csv");
+var dataset = d3.csv("input.csv");
 
 dataset.then(function(data) {
     var slices = data.columns.slice(1).map(function(id) {
@@ -832,7 +832,7 @@ var svg4 = d3.select("body").append("svg")
 
 var parseTime = d3.timeParse("%m/%d/%Y");
 var formatTime = d3.timeFormat("%b %y");
-var dataset = d3.csv("boardgame_ratings.csv");
+var dataset = d3.csv("input.csv");
 
 dataset.then(function(data) {
     var slices = data.columns.slice(1).map(function(id) {
