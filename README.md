@@ -10,4 +10,4 @@ Execution steps (to run in local):
 
 Click here to view the [Line Charts](https://gmadhu89.github.io/line-chart-d3/)
 
-![Snapshot of Line chart](https://github.com/gmadhu89/academic-projects/edit/main/line-chart-d3/line-charts.JPG?raw=true "Snapshot Line chart")  
+![Snapshot of Line chart](https://github.com/gmadhu89/line-chart-d3/blob/main/line-charts.JPG?raw=true "Snapshot Line chart")  
