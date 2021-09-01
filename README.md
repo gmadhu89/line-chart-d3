@@ -1,7 +1,7 @@
 Experimenting different features in D3 line charts for visualizing board game ratings.  
 
-Input data set : boardgame_ratings.csv  
-Code: linecharts.html  
+Input data set : input.csv  
+Code: index.html  
 
 Execution steps (to run in local):    
 1) Copy the lib/ folder to your local.  
