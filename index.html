@@ -41,7 +41,7 @@ var svg = d3.select("body").append("svg")
 
 var parseTime = d3.timeParse("%m/%d/%Y");
 var formatTime = d3.timeFormat("%b %y");
-var dataset = d3.csv("boardgame_ratings.csv");
+var dataset = d3.csv("input.csv");
 
 dataset.then(function(data) {
     var slices = data.columns.slice(1).map(function(id) {
@@ -1103,7 +1103,7 @@ svg4.append('text')
       .attr("fill","black")
 
 svg4.append('text')
-      .text("mganesan7")
+      .text("gmadhu89")
       .attr("font-size",14)
       .attr('dx',svg_width + 2*margins.right + margins.left)
       .attr('dy',svg_height + 25)
